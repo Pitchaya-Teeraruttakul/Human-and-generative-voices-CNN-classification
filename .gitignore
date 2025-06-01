@@ -1,0 +1,10 @@
+*.pdf
+*.docx
+*.xlsx
+*.png
+*.wav
+*.m4a
+*.index
+*.json
+*.data*
+*checkpoint*
