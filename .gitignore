@@ -1,4 +1,4 @@
-*.pdf
+#*.pdf
 *.docx
 *.xlsx
 *.png
@@ -8,3 +8,8 @@
 *.json
 *.data*
 *checkpoint*
+
+# exclude the in significant files
+*รายงาน*
+*Senior*
+*Support*
